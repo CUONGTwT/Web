@@ -167,7 +167,7 @@ body {
 .Content-container-top-above {
     position: relative;
     top: 25%;
-    right: 3%;
+    right: 2%;
 }
 
 .Content-container-top-above h1 {
@@ -181,14 +181,14 @@ body {
     position: relative;
     text-align: center;
     top: 25%;
-    right: 3%;
+    right: 2%;
     letter-spacing: 0.2px;
 }
 
 .Content-container-top-below {
     position: relative;
     top: 43%;
-    left: 38%;
+    left: 39%;
     width: 250px;
 }
 
